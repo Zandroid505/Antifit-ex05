@@ -40,7 +40,7 @@ public class Solution05 {
         double product = num1 * num2;
         double quotient = num1 / num2;
 
-        System.out.printf("%.2f + %.2f = %.2f%n%.2f - %.2f = %.2f%n%.2f * %.2f = %.2f%n%.2f / %.2f = %.2f%n", num1, num2, sum, num1, num2, difference, num1, num2, product, num1, num2, quotient);;
+        System.out.printf("%.2f + %.2f = %.2f%n%.2f - %.2f = %.2f%n%.2f * %.2f = %.2f%n%.2f / %.2f = %.2f%n", num1, num2, sum, num1, num2, difference, num1, num2, product, num1, num2, quotient);
 
     }
 }
